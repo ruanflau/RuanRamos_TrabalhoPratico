@@ -33,6 +33,7 @@ Para simular a limitação de recursos do servidor, utilizou-se a classe `java.u
 # 3. Análise dos Resultados
 
 Esta seção detalha as justificativas técnicas solicitadas nos critérios de avaliação.
+[Image Alt]([Captura de tela 2025-12-12 104404.png](https://github.com/ruanflau/RuanRamos_TrabalhoPratico/blob/d98c68bc2ad1c8f04504b244732bfe5ec4b999d6/Captura%20de%20tela%202025-12-12%20104404.png))
 
 ## 3.1. Evidência do Erro de Overbooking (Parte I)
 
